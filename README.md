@@ -1,78 +1,66 @@
-# Fintech-Finder
+# Fintech - Electronic Employee\Subcontractor Payment Finder
 
-![alt text](https://th.bing.com/th/id/R.57217bff893d6e5fcb9d6cb8f875cc3a?rik=lUXbMcdNeJj3pA&riu=http%3a%2f%2fwww.erpsoftwareblog.com%2fwp-content%2fuploads%2fERP-Implementation-Strategies-2.jpg&ehk=y%2b66QY2961HFUaIJUQDjnuGTPEs3fertIS03uB32fkY%3d&risl=&pid=ImgRaw&r=0 "Logo Title Text 1")
-
-
-# Portfolio Analysis
-# STOCKS BONDS & COMMODITIES
-
- 
-## Overview and Origin
-
-* 3 portfolio 5 to 10 years Bonds, Stocks & Commodities high probability of success
-
-* Portfolio outlook, investment horizon & risk tolerances
-
-* Portfolio Analysis were created by Gokhan Unal, Sam Pearlman & William Riera 
-
-* Data was driven from up-to-date market in csv & api format
-
-* MC Simulation & Empyrial were used for our protfolio end results
+![alt text](https://raw.githubusercontent.com/wdriera33/Fintech-Finder/main/Crypto%20Wallet.png "Logo Title Text 1")
 
 
+# F.E.P - Fintech-Electronic Payment
+ Fintech Subcontract Professional Finder
+ #
 
 
-## Business Activities:
+# Libraries use for Script
+* Web3
+* Streamlit
+* Dataclasses 
+* Typing 
+* Dotenv
+* Bip44
 
-* A portfolio analysis is a widely used product that is rapidly growing in popularity. Ease of technology benefits a wider range of ages. Therefore, our software engineers evolve our software continuously to ensure that it remains simple for users.
+## 2 Python Script 
+* 1 web interface 
+* 2 Ethereum transaction functions
 
-* Our portfolio software is not only easy to use. This tool is also free to everyone thanks to the contributions of advertisers like credit companies, banks, and brokers.
+# Overview and Origin
+* Create platform called Fintech Finder to pay in Ethereum 
+* Create a list of professionals employees or subcontractors in Fintech
+* Platform will send cryptocurrency payments to fintech professionals
 
-#
-## Portfolio Graphs
+## Fintech Employee Professional 
+# Group 1 Lane & Ash
+![alt text](https://raw.githubusercontent.com/wdriera33/Fintech-Finder/main/Jo%20%26%20Kendall/Fintech%20Professional%20Group%201.png "Logo Title Text 1")
 
-# Gokhan_CRvsBenchmark
-![alt text](https://raw.githubusercontent.com/spearl7076/FinTechProject1/main/Visual%20Outlook/Gokhan_CRvsBenchmark.png "Logo Title Text 1")
+# Group 2 Jo & Kendall
+![alt text](https://raw.githubusercontent.com/wdriera33/Fintech-Finder/main/Jo%20%26%20Kendall/Fintech%20Professional%20Group%202.png "Logo Title Text 1")
 
-# Sam_CRvsBenchmark
-![alt text](https://raw.githubusercontent.com/spearl7076/FinTechProject1/main/Visual%20Outlook/Sam_CRvsBenchmark.png "Logo Title Text 1")
+# Payment to Jo & Kandall 40 Hrs
 
-# William_CRvsBenchmark
-![alt text](https://raw.githubusercontent.com/spearl7076/FinTechProject1/main/Visual%20Outlook/Will_CRvsBenchmark.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/wdriera33/Fintech-Finder/main/Jo%20%26%20Kendall/Professionl%20Jo%20%26%20Kendall.png "Logo Title Text 1")
 
-## Landscape:
+# Starting Account Balance
 
-* Historical closing prices of bonds stocks and commodities.
+![alt text](https://raw.githubusercontent.com/wdriera33/Fintech-Finder/main/Jo%20%26%20Kendall/Account%20at%20%24100%20eth.png "Logo Title Text 1")
 
-* In the portfolio graph you'll see the past 5 years is reflected on benchmark & strategy for bonds, stocks & commdities. 
+# Balance Before Paying Jo & Kendall
 
-* Portfolio Analysis shows most intesting stability through most drawdowns
+![alt text](https://raw.githubusercontent.com/wdriera33/Fintech-Finder/main/Jo%20%26%20Kendall/Balance%20Before%20Paying%20Jo%20%26%20Kendall.png "Logo Title Text 1")
+
+# Balance After Paying Jo & Kendall
+![alt text](https://raw.githubusercontent.com/wdriera33/Fintech-Finder/main/Jo%20%26%20Kendall/Balance%20After%20Paying%20Jo%20%26%20Kendall.png "Logo Title Text 1")
 
 
 ## Results
-
-* Constructing a portfolio of bonds, stocks, and commodities with over 5 year success
+* Payroll index 0 address balance decreased as employee index 1,2,3 & 4 address balance increased
 
 ## Recommendations
-
-* Portfolio Analysis should proform on mobile devices
-
-* Up-to-date stocks, bonds & commodities from around the world market
-
-* Add an Up-to-date cryptocurrency to the portfolio
-
-## Written By: 
-Sam Pearlman, 
-Gokhan Unal &
-William Riera
+* Add a picture before address leadger
+* Add an approval notice when deposit is in wallet
 
 ## References
+* Ganache 
+* Streamlit
 
-* Nasdaq Data
-* Alpaca
-* Empyrial
-* World Bank Data
-#
-# Portfolio Analysis-Stocks Bonds & Commodities (Presentation)
 
-[Portfolio Analysis-Stocks Bonds & Commodities (Presentation) ](https://docs.google.com/presentation/d/1KTzLzoeLY8m086UdWELh1IMcnppalvEsPlqn6cx0du4/edit#slide=id.g1229cc3112c_4_32)
+## Written By: 
+William Riera
+
+
